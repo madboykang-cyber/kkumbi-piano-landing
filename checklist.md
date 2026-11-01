@@ -6,5 +6,5 @@
 - [x] 주소 확인 (학원비알리미: 서울 구로구 구로동로42길 58, 3층) — 사용자 확인 필요
 - [x] index.html 작성 (모바일 우선, 카카오톡 채널 '꿈비피아노' 검색 CTA)
 - [x] PC·모바일 캡처 검수 (글자 넘침·이미지 잘림·여백 숫자 확인)
-- [ ] GitHub Pages 배포 (kkumbi-piano-landing) — 공개 저장소 생성이 자동 모드에서 차단됨, 사용자 실행 필요
-- [ ] 라이브 200 확인
+- [x] GitHub Pages 배포 (kkumbi-piano-landing)
+- [x] 라이브 200 확인 (https://madboykang-cyber.github.io/kkumbi-piano-landing/)
